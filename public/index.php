@@ -1,1 +1,5 @@
-it's work!
+<?php
+
+echo phpinfo();
+
+?>
